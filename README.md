@@ -1,7 +1,7 @@
 # Website-Launch-Checklist
 A checklist for launching a website
 
-- [Website-Launch-Checklist](#website-launch-checklist)
+## Table Of Contents
   * [Checklist](#checklist)
     + [Pre-Launch](#pre-launch)
     + [Post-Launch](#post-launch)
@@ -11,6 +11,9 @@ A checklist for launching a website
 ##### Credits To ; 
 <small><i><a href='https://github.com/mapiec/checklist'>Original Author Of This Checklist</a></i></small>
 
+<br>
+<br>
+<br>
 
 ## Checklist
 ### Pre-Launch
