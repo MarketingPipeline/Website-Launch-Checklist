@@ -1,5 +1,6 @@
 # Website-Launch-Checklist
 A checklist for launching a website
+<br>
 
 ## Table Of Contents
   * [Checklist](#checklist)
@@ -11,8 +12,7 @@ A checklist for launching a website
 ##### Credits To ; 
 <small><i><a href='https://github.com/mapiec/checklist'>Original Author Of This Checklist</a></i></small>
 
-<br>
-<br>
+
 <br>
 
 ## Checklist
@@ -136,7 +136,9 @@ A checklist for launching a website
    * [ ]  Create custom 404/error pages	 
  
    * [ ]  Create a favicon
- 
+
+<br>
+
  ### Post-Launch
  * [ ] <b> Marketing </b>
     * [ ] Social Marketing: Twitter, LinkedIn, Digg, Facebook, Stumbleupon, etc.	 
@@ -147,6 +149,8 @@ A checklist for launching a website
  
     * [ ] Check formatting of site results in SERPs	 
  
+<br>
+
  ### Ongoing
  * [ ] Monitor and respond to feedback (direct feedback, on Social Media sites, check for chatter through Google, etc.)	 
  
