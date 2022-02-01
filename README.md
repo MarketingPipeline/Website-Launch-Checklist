@@ -1,4 +1,7 @@
 # Website-Launch-Checklist
+
+![](Checklist_Image.png)
+
 A checklist for launching a website
 <br>
 
