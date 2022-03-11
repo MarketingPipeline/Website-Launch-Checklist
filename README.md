@@ -6,6 +6,12 @@
    
    <p align="center">
     A checklist of tasks to do before launching a public website.
+  
+  <br>
+  <small> <b><i>Show your support!</i> </b></small>
+  <br>
+  <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Website-Launch-Checklist.svg?style=social&label=Star">
+  <img title="Fork on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Website-Launch-Checklist.svg?style=social&label=Fork">
    </p>  
 
 
