@@ -10,7 +10,7 @@
   <br>
   <small> <b><i>Show your support!</i> </b></small>
   <br>
-   <a href="https://github.com/MarketingPipeline/Website-Launch-Checklist/star">
+   <a href="https://github.com/MarketingPipeline/Website-Launch-Checklist">
     <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Website-Launch-Checklist.svg?style=social&label=Star">
   </a>
   <a href="https://github.com/MarketingPipeline/Website-Launch-Checklist/fork">
