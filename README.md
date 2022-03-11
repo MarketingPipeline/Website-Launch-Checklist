@@ -262,7 +262,9 @@ Launch preparation generally takes a day or more. You should also reserve a day 
  * [ ] Update content
  
  * [ ] <b> Optional: </b> Set up relevant Goals and Funnels in Google Analytics
-
+   
+ 
+<br>
 
 ## Suggestions
 
