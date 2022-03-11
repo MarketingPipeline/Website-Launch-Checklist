@@ -10,8 +10,12 @@
   <br>
   <small> <b><i>Show your support!</i> </b></small>
   <br>
-  <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Website-Launch-Checklist.svg?style=social&label=Star">
-  <img title="Fork on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Website-Launch-Checklist.svg?style=social&label=Fork">
+   <a href="https://github.com/MarketingPipeline/Website-Launch-Checklist/star">
+    <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Website-Launch-Checklist.svg?style=social&label=Star">
+  </a>
+  <a href="https://github.com/MarketingPipeline/Website-Launch-Checklist/fork">
+    <img title="Fork on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Website-Launch-Checklist.svg?style=social&label=Fork">
+  </a>
    </p>  
 
 
