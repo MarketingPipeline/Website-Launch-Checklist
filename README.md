@@ -1,8 +1,13 @@
-# Website-Launch-Checklist
+# Website Launch Checklist
 
-![](Checklist_Image.png)
+<p align="center">
+  <img src="Checklist_Image.png">
+   </p>  
+   
+   <p align="center">
+    A checklist of tasks to do before launching a public website.
+   </p>  
 
-A checklist of tasks to do before launching a public website.
 
 <br>
 
